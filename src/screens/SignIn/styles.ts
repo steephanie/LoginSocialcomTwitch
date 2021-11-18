@@ -73,6 +73,6 @@ export const SignInButtonText = styled.Text`
   flex: 1;
   color: ${props => props.theme.colors.white};
   font-size: 15px;
-  font-family: ${props => props.theme.fonts.regular};
+  font-family: ${props => props.theme.fonts.bold};
   text-align: center;
 `;
